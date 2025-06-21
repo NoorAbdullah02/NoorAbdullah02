@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Dynamic Header with Animated Text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20•%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=55&descSize=16"/>
+  <img src="[https://capsule-render.vercel.app](https://github.com/NoorAbdullah02/NoorAbdullah02/blob/main/Picture.jpg)/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20•%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=55&descSize=16"/>
 </div>
 
 <!-- Profile Picture Section -->
