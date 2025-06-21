@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Dynamic Header with Animated Text -->
-  <img src="[https://github.com/NoorAbdullah02/NoorAbdullah02/blob/main/Picture.jpg]/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20•%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20•%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=55&descSize=16"/>
 </div>
 
 <!-- Profile Picture Section -->
@@ -134,6 +134,56 @@ const developer = {
 
 ---
 
+## 🔥 Contribution Graph
+
+<div align="center">
+
+<!-- Snake eating contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<!-- Contribution Stats -->
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" alt="Profile Details"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=6" alt="Productive Time"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark" alt="Repos per Language"/>
+
+</td>
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark" alt="Most Commit Language"/>
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Trophy Section -->
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 🌟 Featured Projects
 
 <div align="center">
@@ -197,23 +247,23 @@ const developer = {
 <tr>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<br>**Solutions Architect**
+<br><b>Solutions Architect</b>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<br>**Professional Developer**
+<br><b>Professional Developer</b>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<br>**Certified Associate**
+<br><b>Certified Associate</b>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<br>**Certified Developer**
+<br><b>Certified Developer</b>
 </td>
 <td align="center" width="20%">
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<br>**CKAD Certified**
+<br><b>CKAD Certified</b>
 </td>
 </tr>
 </table>
@@ -262,19 +312,19 @@ Other        ████▏                     15.6%
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Freelance-4CAF50?style=for-the-badge&logo=upwork&logoColor=white"/>
-<br>**Full Stack Development**
+<br><b>Full Stack Development</b>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Consulting-2196F3?style=for-the-badge&logo=handshake&logoColor=white"/>
-<br>**Technical Consulting**
+<br><b>Technical Consulting</b>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Mentoring-FF9800?style=for-the-badge&logo=teachable&logoColor=white"/>
-<br>**Career Guidance**
+<br><b>Career Guidance</b>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/-Speaking-E91E63?style=for-the-badge&logo=microphone&logoColor=white"/>
-<br>**Tech Talks**
+<br><b>Tech Talks</b>
 </td>
 </tr>
 </table>
