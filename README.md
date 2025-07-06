@@ -17,8 +17,9 @@
   
   <!-- Real-time Typing Animation -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hello%2C+I'm+%5BSheikh Noor Abdullah%5D;🚀+Full+Stack+Developer;💡+Problem+Solver+%26+Innovator;🌟+Always+Learning+Something+New" alt="Typing SVG" />
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hello%2C+I'm+Sheikh+Noor+Abdullah;🚀+Full+Stack+Developer;🌟+Always+Learning+Something+New" alt="Typing SVG" />
+</h1>
+
   
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=4ECDC4&style=flat-square" alt="Profile Views"/>
