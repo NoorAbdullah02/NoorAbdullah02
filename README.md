@@ -13,12 +13,13 @@
 <!-- Profile Picture Section -->
 <div align="center">
   <!-- Profile Picture Section with Your Image -->
-  <img src="https://github.com/user-attachments/assets/0627e2c9-872d-4f63-90ce-d9dd37312a3c.png" alt="Profile Picture" style="width: 250px; height: 250px; object-fit: cover; border-radius: 50%; border: 4px solid #4ECDC4; box-shadow: 0 0 30px rgba(78, 205, 196, 0.5);"/>
+  <img width="180" height="180" src="https://github.com/user-attachments/assets/d400061b-1b49-4f6d-9f12-fd8572ee8f8c" alt="Profile Picture" style="border-radius: 50%; border: 4px solid #4ECDC4; box-shadow: 0 0 30px rgba(78, 205, 196, 0.5);"/>
 
   <!-- Real-time Typing Animation -->
   <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👋+Hello%2C+I'm+Sheikh+Noor+Abdullah;🚀+Full+Stack+Developer;🚀+Always+Learning+Something+New" alt="Typing SVG" />
 </h1>
+
 
 
   
@@ -40,8 +41,8 @@
 javascript
 const developer = {
     name: "Sheikh Noor Abdullah",
-    title: "Senior Full Stack Developer",
-    location: "Your City, Country 🌍",
+    title: "junior Full Stack Developer",
+    location: "Nator, Bangladesh 🌍",
     
     code: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
     askMeAbout: ["Web Dev", "Tech", "App Dev", "Cloud"],
@@ -78,10 +79,10 @@ const developer = {
 ### 📊 Quick Stats
   
 **💼** 5+ Years Experience  
-**🚀** 100+ Projects Completed  
+**🚀** 3+ Projects Completed  
 **⭐** 500+ GitHub Stars  
 **☕** Infinite Coffee Consumed  
-**🏆** 10+ Hackathons Won  
+**🏆** 0+ Hackathons Won  
 
 <br>
 
