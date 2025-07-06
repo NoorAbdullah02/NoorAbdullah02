@@ -2,7 +2,14 @@
 
 <div align="center">
   <!-- Dynamic Header with Animated Text -->
+ <div align="center">
+  <!-- Dynamic Header with Animated Text -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Welcome%20to%20My%20Digital%20World&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Solutions%20•%20One%20Line%20of%20Code%20at%20a%20Time&descAlignY=55&descSize=16"/>
+  
+  <!-- Profile Picture Section with Your Image -->
+  <img width="180" height="180" src="https://github.com/user-attachments/assets/d400061b-1b49-4f6d-9f12-fd8572ee8f8c" alt="Profile Picture" style="border-radius: 50%; border: 4px solid #4ECDC4; box-shadow: 0 0 30px rgba(78, 205, 196, 0.5);"/>
+</div>
+
 </div>
 
 <!-- Profile Picture Section -->
