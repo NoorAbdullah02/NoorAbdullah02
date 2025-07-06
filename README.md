@@ -14,7 +14,8 @@
 
 <!-- Profile Picture Section -->
 <div align="center">
-  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/1?v=4" alt="Profile Picture" style="border-radius: 50%; border: 4px solid #4ECDC4; box-shadow: 0 0 30px rgba(78, 205, 196, 0.5);"/>
+  <!-- Profile Picture Section with Your Image -->
+  <img width="180" height="180" src="https://github.com/user-attachments/assets/d400061b-1b49-4f6d-9f12-fd8572ee8f8c" alt="Profile Picture" style="border-radius: 50%; border: 4px solid #4ECDC4; box-shadow: 0 0 30px rgba(78, 205, 196, 0.5);"/>
   
   <!-- Real-time Typing Animation -->
   <h1>
