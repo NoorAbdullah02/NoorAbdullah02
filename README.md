@@ -1,5 +1,5 @@
 <a href="https://noor-abdullah.vercel.app/">
-  <img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/main/Image.webp" alt="Logo">
+  <img src="https://raw.githubusercontent.com/NoorAbdullah02/NoorAbdullah02/main/Image.webp" alt="Logo">
 </a>
 <h1 align="center">Hi 👋, I'm Sheikh Noor Abdullah</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
