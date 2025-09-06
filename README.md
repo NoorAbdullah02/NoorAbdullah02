@@ -9,18 +9,18 @@
 </a>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" />
-  <img src="https://img.shields.io/github/stars/SaurabhSSB?v=0" alt="GHStars" />
-  <img src="https://img.shields.io/github/followers/SaurabhSSB" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=NoorAbdullah02&label=Profile%20views&color=0e75b6&style=flat" alt="noorabdullah02" />
+  <img src="https://img.shields.io/github/stars/NoorAbdullah02?v=0" alt="GHStars" />
+  <img src="https://img.shields.io/github/followers/NoorAbdullah02" alt="Followers" />
 </p>
 
 - 🔭 I’m currently working on [Python Mastery Roadmap](https://github.com/SaurabhSSB/Python-Mastery-Roadmap)
 
 - 🌱 I’m currently learning **Data Science Fundamentals**
 
-- 🔭 I’m currently working on [Data Visualization Using R](https://github.com/SaurabhSSB/Data-Visualisation-in-R)
+- 🔭 I’m currently working on [Data Visualization Using R](https://github.com/NoorAbdullah02/Data-Visualisation-in-R)
 
-- 🔭 I’m currently working on [Foundations of Statistics with R](https://github.com/SaurabhSSB/Statistics-with-R)
+- 🔭 I’m currently working on [Foundations of Statistics with R](https://github.com/NoorAbdullah02/Statistics-with-R)
 
 - 👨‍💻 All of my projects are available in [My Projects](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
 
