@@ -59,7 +59,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-[![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
+[![logo](https://github.com/NoorAbdullah02/NoorAbdullah02/blob/main/Final.webp)](https://noor-abdullah.vercel.app/)
 
 <!--
 <p>
@@ -81,26 +81,26 @@
 </div>
 -->
 
-| <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB"><img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Professional.webp" alt="SaurabhSSB" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical&v=1" height="350px"/> |
+| <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB"><img src="https://github.com/NoorAbdullah02/NoorAbdullah02/blob/main/Professional.webp" alt="NoorAbdullah02" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoorAbdullah02&layout=donut-vertical&theme=radical&v=1" height="350px"/> |
 |-------------------------------------------------------|-----------------------------------|
 
 
-| [![SaurabhSSB's GitHub Streak](https://streak-stats.demolab.com/?user=SaurabhSSB&theme=radical&exclude_days=Sat&theme=radical&v=1)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB) | ![SaurabhSSB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github&v=1) |
+| [![NoorAbdullah02's GitHub Streak](https://streak-stats.demolab.com/?user=NoorAbdullah02&theme=radical&exclude_days=Sat&theme=radical&v=1)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB) | ![NoorAbdullah02's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoorAbdullah02&show_icons=true&theme=radical&rank_icon=github&v=1) |
 |-------------------------------------------------------|-----------------------------------|
 
 <!--https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical&v=0-->
 
-[![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
+[![logo](https://github.com/NoorAbdullah02/NoorAbdullah02/blob/main/Banner.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
 
 ## **Trail of Contributions**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif"/>
-  <img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/NoorAbdullah02/NoorAbdullah02/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif"/>
+  <img src="https://github.com/NoorAbdullah02/NoorAbdullah02/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake gif"/>
 </div>
 
 <p align="center">
-  <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB">
+  <a href="https://noor-abdullah.vercel.app/">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
   </a>
 </p>
