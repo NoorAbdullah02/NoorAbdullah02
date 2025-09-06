@@ -22,15 +22,15 @@
 
 - 🔭 I’m currently working on [Foundations of Statistics with R](https://github.com/NoorAbdullah02/Statistics-with-R)
 
-- 👨‍💻 All of my projects are available in [My Projects](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
+- 👨‍💻 All of my projects are available in [My Projects](https://noor-abdullah.vercel.app/portfolio.html)
 
 <!--- 📝 I regularly write articles on [https://medium.com/@saurabhsinghbhandarissb](https://medium.com/@saurabhsinghbhandarissb)-->
 
 - 💬 Ask me about **My approach to building strong statistical and programming skills.**
 
-- 📫 How to reach me **saurabhsinghbhandarissb@gmail.com**
+- 📫 How to reach me **sheikhnoorabdullah02@gmail.com**
 
-- 📇 Connect with me on LinkedIn [https://www.linkedin.com/in/saurabhsinghbhandarissb](https://www.linkedin.com/in/saurabhsinghbhandarissb)
+- 📇 Connect with me on LinkedIn [https://www.linkedin.com/in/sheikhnoorabdullah/](https://www.linkedin.com/in/sheikhnoorabdullah/)
 
 - ⚡ Fun fact **I'm a firm believer that learning never stops—I'm always trying to improve my skills.**
 
@@ -43,7 +43,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/saurabh_ssb" target="blank"><img align="center" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Twitter_.avif" alt="saurabh_ssb" height="30" width="40" /></a>
+<a href="https://x.com/saurabh_ssb" target="blank"><img align="center" src="https://github.com/NoorAbdullah02/NoorAbdullah02/blob/main/Twitter_.avif" alt="NoorAbdullah02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurabhsinghbhandarissb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhsinghbhandarissb" height="30" width="40" /></a>
 <!--<a href="https://kaggle.com/saurabhsinghbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saurabhsinghbhandari" height="30" width="40" /></a>-->
 <a href="https://fb.com/saurabh singh bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh singh bhandari" height="30" width="40" /></a>
