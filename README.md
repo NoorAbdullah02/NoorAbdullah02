@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Sheikh Noor Abdullah</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
 
-<a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB" target="_blank">
-  <img align="right" alt="Data Scientist" width="400" src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/main/Final%20(2).webp">
+<a href="https://noor-abdullah.vercel.app/" target="_blank">
+  <img align="right" alt="Data Scientist" width="400" src="https://raw.githubusercontent.com/NoorAbdullah02/NoorAbdullah02/main/Final%20(2).webp">
 </a>
 
 <p align="left">
@@ -49,7 +49,7 @@
 <a href="https://www.facebook.com/sheikh.noor.abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noor Abdullah" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sheikhnoorabdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Noor Abdullah" height="30" width="40" /></a>
 <!--<a href="https://medium.com/@saurabhsinghbhandarissb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saurabhsinghbhandarissb" height="30" width="40" /></a>-->
-<a href="https://www.youtube.com/c/saurabh singh bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="saurabh singh bhandari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@noorabdullah-dq2so" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Noor Abdullah" height="30" width="40" /></a>
 <!--<a href="https://www.leetcode.com/saurabhsinghbhandarissb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabhsinghbhandarissb" height="30" width="40" /></a>-->
 </p>
 
