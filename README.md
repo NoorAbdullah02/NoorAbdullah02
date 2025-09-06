@@ -44,7 +44,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/NoorAbdullah02" target="blank"><img align="center" src="https://github.com/NoorAbdullah02/NoorAbdullah02/blob/main/Twitter_.avif" alt="NoorAbdullah02" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sheikhnoorabdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/NoorAbdullah02/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheikhnoorabdullah/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sheikhnoorabdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sheikhnoorabdullah/" height="30" width="40" /></a>
 <!--<a href="https://kaggle.com/saurabhsinghbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saurabhsinghbhandari" height="30" width="40" /></a>-->
 <a href="https://www.facebook.com/sheikh.noor.abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noor Abdullah" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sheikhnoorabdullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Noor Abdullah" height="30" width="40" /></a>
