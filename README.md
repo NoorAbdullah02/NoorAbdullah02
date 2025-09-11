@@ -95,8 +95,8 @@
 ## **Trail of Contributions**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif"/>
-  <img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/NoorAbdullah02/NoorAbdullah02/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif"/>
+  <img src="https://github.com/NoorAbdullah02/NoorAbdullah02/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake gif"/>
 </div>
 
 <p align="center">
