@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101826,100:c98a2c&height=220&section=header&text=Sheikh%20Noor%20Abdullah&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Competitive%20Programmer%20%E2%80%A2%20ICPC%20Participant%20%E2%80%A2%20CSE%20Undergraduate&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101826,100:c98a2c&height=220&section=header&text=Sheikh%20Noor%20Abdullah&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Competitive%20Programmer%20%E2%80%A2%20ICPC%20Participant%20%E2%80%A2%20ICE%20Undergraduate&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <a href="https://noor-abdullah.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=600&size=22&pause=1000&color=C98A2C&center=true&vCenter=true&width=600&lines=Building+with+C%2FC%2B%2B%2C+Python%2C+Java+%26+Kotlin;ICPC+Dhaka+Regional+Contest+Participant;Exploring+IoT%2C+AI+%26+Cybersecurity;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
