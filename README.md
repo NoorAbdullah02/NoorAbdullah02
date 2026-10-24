@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101826,100:c98a2c&height=220&section=header&text=Sheikh%20Noor%20Abdullah&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Competitive%20Programmer%20%E2%80%A2%20ICPC%20Participant%20%E2%80%A2%20ICE%20Undergraduate&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101826,100:c98a2c&height=220&section=header&text=Sheikh%20Noor%20Abdullah&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=ICPC%20Contestant%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20RoboSpark%20Champion&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<a href="https://noor-abdullah.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=600&size=22&pause=1000&color=C98A2C&center=true&vCenter=true&width=600&lines=Building+with+C%2FC%2B%2B%2C+Python%2C+Java+%26+Kotlin;ICPC+Dhaka+Regional+Contest+Participant;Exploring+IoT%2C+AI+%26+Cybersecurity;Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://noor-s-portfolio.onrender.com/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=600&size=22&pause=1000&color=C98A2C&center=true&vCenter=true&width=650&lines=3+Papers+Accepted+at+IEEE+CSDE+2026;RoboSpark+Robotics+Champion+%F0%9F%8F%86;ICPC+Dhaka+Regional+Contest+Participant;Building+ML%2C+Embedded+%26+Full-Stack+Systems" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<a href="https://noor-abdullah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-101826?style=for-the-badge&logo=vercel&logoColor=C98A2C" /></a>
+<a href="https://noor-s-portfolio.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-101826?style=for-the-badge&logo=render&logoColor=C98A2C" /></a>
 <a href="https://www.linkedin.com/in/sheikhnoorabdullah/"><img src="https://img.shields.io/badge/LinkedIn-101826?style=for-the-badge&logo=linkedin&logoColor=C98A2C" /></a>
 <a href="mailto:sheikhnoorabdullah02@gmail.com"><img src="https://img.shields.io/badge/Email-101826?style=for-the-badge&logo=gmail&logoColor=C98A2C" /></a>
 <a href="https://x.com/NoorAbdullah02"><img src="https://img.shields.io/badge/X-101826?style=for-the-badge&logo=x&logoColor=C98A2C" /></a>
@@ -29,18 +29,19 @@
 class SheikhNoorAbdullah:
     def __init__(self):
         self.role        = "B.Sc. in ICE | Bangladesh Army University of Engineering & Technology"
-        self.focus       = ["Competitive Programming", "AI / IoT", "Cybersecurity"]
-        self.languages   = ["C", "C++", "Java", "Python", "Kotlin"]
-        self.currently   = "Sharpening DSA & building full-stack / AI projects"
+        self.focus       = ["Machine Learning Research", "Embedded Systems / IoT", "Competitive Programming", "Cybersecurity"]
+        self.languages   = ["C", "C++", "Python", "Java"]
+        self.currently   = "Publishing ML research & building embedded + full-stack systems"
         self.fun_fact    = "I believe learning never stops."
 ```
 
+- 📄 **3 research papers accepted at IEEE CSDE 2026** — medical imaging & explainable ML
+- 📄 Research paper accepted at **ISRC 2026** (Dhaka University Research Society)
+- 🤖 **RoboSpark Robotics Champion** — hardware design, embedded programming, real-time control
 - 🏆 **ICPC Dhaka Regional Contest** participant, representing BAUET
-- 🧠 Currently sharpening **Data Structures & Algorithms** and competitive-programming fundamentals
-- 🛠️ Building real products — from AI assistants to financial dashboards and routing systems
-- 🌐 Exploring **IoT, AI and Cybersecurity**
+- 🧠 Building across **ML research, embedded systems and full-stack web**
 - 📫 Reach me at **sheikhnoorabdullah02@gmail.com**
-- 👨‍💻 All projects: **[noor-abdullah.vercel.app/portfolio](https://noor-abdullah.vercel.app/portfolio.html)**
+- 👨‍💻 Full portfolio: **[noor-s-portfolio.onrender.com](https://noor-s-portfolio.onrender.com/#projects)**
 
 <br/>
 
@@ -48,15 +49,15 @@ class SheikhNoorAbdullah:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,r,linux,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,react,git,github,linux,arduino&theme=dark" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-101826?style=for-the-badge&logoColor=C98A2C" />
-<img src="https://img.shields.io/badge/Networking-101826?style=for-the-badge&logoColor=C98A2C" />
+<img src="https://img.shields.io/badge/Machine_Learning-101826?style=for-the-badge&logoColor=C98A2C" />
+<img src="https://img.shields.io/badge/PyTorch-101826?style=for-the-badge&logo=pytorch&logoColor=C98A2C" />
+<img src="https://img.shields.io/badge/Embedded_%2F_IoT-101826?style=for-the-badge&logoColor=C98A2C" />
 <img src="https://img.shields.io/badge/Cybersecurity-101826?style=for-the-badge&logoColor=C98A2C" />
-<img src="https://img.shields.io/badge/Pandas-101826?style=for-the-badge&logo=pandas&logoColor=C98A2C" />
-<img src="https://img.shields.io/badge/NumPy-101826?style=for-the-badge&logo=numpy&logoColor=C98A2C" />
+<img src="https://img.shields.io/badge/FastAPI-101826?style=for-the-badge&logo=fastapi&logoColor=C98A2C" />
 
 </div>
 
@@ -78,10 +79,23 @@ class SheikhNoorAbdullah:
 ## `>_` Milestones
 
 <div align="center">
+<img src="https://img.shields.io/badge/📄_IEEE_CSDE_2026-3_Papers_Accepted-101826?style=for-the-badge&labelColor=101826&color=c98a2c" />
+<img src="https://img.shields.io/badge/🤖_RoboSpark-Champion-101826?style=for-the-badge&labelColor=101826&color=c98a2c" />
 <img src="https://img.shields.io/badge/🏆_ICPC_Dhaka_Regional-Participant-101826?style=for-the-badge&labelColor=101826&color=c98a2c" />
-<img src="https://img.shields.io/badge/⚡_Hackathon_2025-Participant-101826?style=for-the-badge&labelColor=101826&color=c98a2c" />
-<img src="https://img.shields.io/badge/🚀_Projects_Shipped-9%2B-101826?style=for-the-badge&labelColor=101826&color=c98a2c" />
+<img src="https://img.shields.io/badge/📄_ISRC_2026-Paper_Accepted-101826?style=for-the-badge&labelColor=101826&color=c98a2c" />
 </div>
+
+<details>
+<summary align="center"><b>🔎 View all achievements</b></summary>
+<br/>
+
+| Achievement | Detail |
+|---|---|
+| 🤖 Robot Making Hackathon 2025 | Team *Glitch Weavers*, organized by Robo Tech Valley, BAUET Dept. of ICE |
+| 🌍 Aspire Leaders Program — Cohort 4 | Global leadership program by Aspire Institute (2026) |
+| 🥉 IT Job Quiz — 3rd Place | BAUET ICT Club IT Job Quiz Competition 1 |
+
+</details>
 
 <br/>
 
@@ -102,28 +116,32 @@ class SheikhNoorAbdullah:
 <tr>
 <td width="50%" valign="top">
 
-**💰 Cash Control**
-<br/>Personal finance management app with transaction tracking and interactive dashboards.
+**🩺 XAI-MedCrossNet++**
+<br/>Tri-modal deep learning framework for breast cancer screening — fuses mammography images, radiomics features and clinical metadata via cross-attention, with Grad-CAM++ and SHAP explainability.
+<br/><sub>PyTorch · Medical Imaging · XAI · [Code](https://github.com/NoorAbdullah02/cancer)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🚦 AI-Powered Campus Traffic Routing**
-<br/>Smart routing system that models and optimizes campus traffic flow.
+**🌿 Plant Disease Recognition**
+<br/>Cross-domain ConvNeXt-Small trained on three leaf-disease datasets (43 classes) — 99.33% Macro-F1 in-domain, 91.55% on an unseen coffee-farm dataset.
+<br/><sub>PyTorch · Computer Vision · [Code](https://github.com/NoorAbdullah02/plant-disease-three-datasets)</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎙️ AI-Powered Voice Assistant**
-<br/>Voice-driven assistant for hands-free task execution and queries.
+**🛡️ AI Cyber Attack Prediction Engine**
+<br/>XGBoost-powered risk scoring for network traffic, served through a FastAPI backend with a React monitoring dashboard.
+<br/><sub>Python · XGBoost · FastAPI · [Code](https://github.com/NoorAbdullah02/AI-Cyber-Attack-Prediction)</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🏨 Online Hotel Booking**
-<br/>Booking platform covering search, reservation and management flows.
+**🚦 City Traffic Management System**
+<br/>Graph-based simulation of city traffic incidents — Dijkstra & BFS for shortest-path routing and real-time congestion analysis.
+<br/><sub>Python · Graphs · [Code](https://github.com/NoorAbdullah02/TrafficRoutingSystem)</sub>
 
 </td>
 </tr>
@@ -135,10 +153,8 @@ class SheikhNoorAbdullah:
 
 | Project | Description |
 |---|---|
-| 🐍 DIY Snake Game | Digital Logic Design project implementing classic gameplay at the hardware/logic level |
-| 🎨 Pixxeloor | Creative image/photo-based web project focused on visual presentation |
-| 🧮 Calculator App | Standard calculator built as a core programming exercise |
-| 👕 ICE Department Jersey | Ordering platform built for the department's jersey drive |
+| 🎮 DIY Handheld Gaming Console | ATmega328P + I2C OLED handheld built on perfboard, game logic in C via Arduino IDE |
+| 🧮 Elegant Calculator | Python/Tkinter calculator with constants, Undo and a polished modern UI |
 
 </details>
 
